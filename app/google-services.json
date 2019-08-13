@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "902195564414",
+    "firebase_url": "https://mybusapplication-e6a2e.firebaseio.com",
+    "project_id": "mybusapplication-e6a2e",
+    "storage_bucket": "mybusapplication-e6a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902195564414:android:93e4c2d31ecb5336",
+        "android_client_info": {
+          "package_name": "com.example.venka.mybusapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902195564414-rnqau3anks7md0ph5791mcei1o8ku6ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venka.mybusapplication",
+            "certificate_hash": "2e4537ecd1179a6cfe94318931347432b4688d9a"
+          }
+        },
+        {
+          "client_id": "902195564414-jfmhpptd31llhamofb0jk1oc7g4eidce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4VMBJfs1H-twobO51_9zv2S5WB5EVuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902195564414-jfmhpptd31llhamofb0jk1oc7g4eidce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902195564414:android:4b722d8273b43d96",
+        "android_client_info": {
+          "package_name": "com.example.venka.studentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902195564414-ns7n8efpe5aanrslrr7fghh9avs2940v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venka.studentapp",
+            "certificate_hash": "2e4537ecd1179a6cfe94318931347432b4688d9a"
+          }
+        },
+        {
+          "client_id": "902195564414-jfmhpptd31llhamofb0jk1oc7g4eidce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4VMBJfs1H-twobO51_9zv2S5WB5EVuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902195564414-jfmhpptd31llhamofb0jk1oc7g4eidce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902195564414:android:100c4cdd34da95ad",
+        "android_client_info": {
+          "package_name": "com.example.venka.studentbusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902195564414-fsltf0asunf80l97do6jigs7lgdpkg5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venka.studentbusapp",
+            "certificate_hash": "2e4537ecd1179a6cfe94318931347432b4688d9a"
+          }
+        },
+        {
+          "client_id": "902195564414-jfmhpptd31llhamofb0jk1oc7g4eidce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4VMBJfs1H-twobO51_9zv2S5WB5EVuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902195564414-jfmhpptd31llhamofb0jk1oc7g4eidce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
